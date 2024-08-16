@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background: gold;
+    margin: 0px;
+    font-family: "Bungee Tint", sans-serif;
+    margin: 50px;
+    
+}
+
+.categoria-videos {
+    display: flex; 
+    overflow-x: auto;
+}
